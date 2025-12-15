@@ -1,4 +1,4 @@
-# ProtexAI
+# Device Monitor
 
 A real-time system monitoring and alerting platform that collects system metrics, publishes them via MQTT, stores them in MongoDB, and provides visualizations through a web UI with Slack notifications.
 
